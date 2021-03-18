@@ -1,0 +1,9 @@
+/* Donate */
+.digizenadonate-wrpicon{display:block;margin:15px auto;position:relative;}
+.digizenadonate-wrpicon .extender{width:100%;display:block;}
+.extender{text-align:center;font-size:16px}
+.extender .digizenadonate-icon{display:inline-block;border:0;margin:0;padding:0;width:48.8%}
+.extender .digizenadonate-icon a{background:#fff;display:inline-block;font-weight:400;color:#0d9ed7;padding:0 12px;line-height:36px;border-radius:3px;font-size:14px;border:1px solid;width:100%;transition:initial}
+.extender .digizenadonate-icon i{font-family:fontawesome;margin:0 4px 0 0}
+.digizenadonate-icon.blogger a:hover,.digizenadonate-icon.ppal a:hover{background:#0d9ed7;color:#fff;}
+.extender .digizenadonate-icon:hover a,.extender .digizenadonate-icon a:hover{color:#fff;}
