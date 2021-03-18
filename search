@@ -1,0 +1,8 @@
+#search-usmob{float:right;margin:0;padding:0;overflow:hidden;width:100%;max-width:320px}
+#search-usmob table{width:100%;margin:0;position:relative;height:36px}
+#search-usmob td.search-boxdesk1{color:#cbd1e1!important}
+#search-usmob input#search-boxdesk1[type=&quot;text&quot;]{background:#fff;height:36px;line-height:35px;margin:0;padding:0 10px;width:100%;border:1px solid rgba(0,0,0,.1);border-radius:3px;font-size:13px;color:rgba(0,0,0,.7)!important;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}
+#search-usmob input#search-boxdesk1[type=&quot;text&quot;]:hover{background:#fff;}
+#search-usmob input#search-boxdesk1[type=&quot;text&quot;]:focus{background:#fff;outline:none;color:#26272D!important}
+#search-usmob input#search-button1[type=&quot;submit&quot;]{cursor:pointer;font-family:FontAwesome;font-size:14px;background:transparent;color:#FFEB3B;height:60px;line-height:60px;margin:0;padding:0 15px;border:none;outline:none;font-weight:normal!important;transition:all 0.25s;position:static;right:0;top:0;z-index:2}
+#search-usmob input#search-button1[type=&quot;submit&quot;]:hover,#search-usmob input#search-button1[type=&quot;submit&quot;]:active{color:##4795c9}
