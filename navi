@@ -1,0 +1,7 @@
+/* Page Navigation */
+#blog-pager{background:#26272d;clear:both;width:auto;padding:30px 15px;line-height:normal;position:relative;display:block;text-align:left;overflow:visible;margin:0;}
+.showpage a,.showpageNum a,.showpagePoint{background:#1f2127;position:relative;display:inline-block;color:#fff;margin:0px 5px 9px 0px;padding:10px 14px;text-decoration:none;font-size:14px;font-weight:700;border-radius:4px;transition:all .1s}
+.showpageOf{float:right;color:#95a5a6;display:inline-block;font-size:13px;margin:0;padding:6px 0;line-height:1.42857143}
+.showpage a:hover,.showpageNum a:hover{background:#dadada;color:#1f2127;position:relative;}
+.showpagePoint,.showpagePoint:hover{background:#4E91CB;color:#000}
+span.label-info a.label-block:nth-child(n+2),ul.recent_posts_arlina li:nth-child(n+6),.post-info,.snippets,.label-info,.showpageOf {display:none!important;}
