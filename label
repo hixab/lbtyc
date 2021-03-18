@@ -1,0 +1,9 @@
+/* Dropdown Label */
+.droplabeldo select{outline:none;cursor:pointer;transition:all .6s ease-out}
+.droplabeldo{display:inline-block;position:relative;overflow:hidden;width:100%;border:0;height:40px;line-height:40px;color:#7f8c8d}
+.droplabeldo:before,.droplabeldo:after{content:&#39;&#39;;position:absolute;z-index:2;top:15px;right:12px;width:0;height:0;line-height:40px;border:4px dashed;border-color:#95a5a6 transparent;pointer-events:none}
+.droplabeldo:before{border-bottom-style:solid;border-top:none}
+.droplabeldo:after{margin-top:7px;border-top-style:solid;border-bottom:none}
+.dropdown-select{background:#FFC107;color:#333;position:relative;width:100%;margin:0;padding:6px 8px 6px 12px;height:40px;line-height:16px;font-size:13px;border:0;border-radius:5px;-webkit-appearance:none}
+.droplabeldo select:hover,.droplabeldo select:focus{outline:none;cursor:pointer;}
+.dropdown-select&gt;option{background:#222;position:relative;display:block;margin:3px;text-shadow:none;outline:0;border:0;cursor:pointer;color:#ffffff;}
