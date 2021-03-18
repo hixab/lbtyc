@@ -1,0 +1,19 @@
+/* Social Header */
+.redheader{max-width:970px;margin:auto}
+ul.nomedic{margin:1px auto;padding:0;height:36px;float:right;display:block}
+ul.nomedic li{float:left;text-align:right}
+ul.nomedic li.awal{float:left;text-align:left;width:275px}
+li.sosialfoot{display:inline-block;float:right;list-style-type:none;height:36px;margin:0;padding:0}
+li.sosialfoot a{background:linear-gradient(45deg, #FF9800 0%, #FFEB3B 100%);clear:both;transition:all 0.4s;display:inline-block;line-height:36px;height:36px;width:36px;text-align:center;padding:0;margin:0 0 0 10px;color:#333!important;border-radius:5px;overflow:hidden;}
+li.sosialfoot a i{line-height:36px;font-size:17px;transform:rotate(0deg);transition:all .3s linear;}
+li.sosialfoot a:hover i{}
+li.sosialfoot a:hover{opacity:.7}
+li.sosialfoot a.fcb{background:#3a5a9d}
+li.sosialfoot a.twt{background:#15cbe0}
+li.sosialfoot a.gpl{background:#e14936}
+li.sosialfoot a.rss{background:#ff7443}
+li.sosialfoot a.pin{background:#E60023}
+li.sosialfoot a.vk{background:#4A76A8}
+li.sosialfoot a.yt{background:#FF0202}
+li.sosialfoot a.st{background:#06D6A9}
+li.sosialfoot a.ref{background:linear-gradient(45deg, #FF9800 0%, #FFEB3B 100%)}
