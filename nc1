@@ -1,0 +1,11 @@
+#header{background:#2E3037;display:block;margin:0 auto;word-wrap:break-word;overflow:hidden;text-align:center;color:#000;border-bottom:1px solid rgba(0,0,0,0.05);}
+#header .title{font-size:200%;text-transform:uppercase;margin:0;padding:0;display:inline-block;width:100%}
+#header .title:hover {color:#000;}
+#header .title a{color:#ffc107;}
+#header .title a:hover {color:#fff}
+#header p.description{margin:15px 0 0 0;line-height:normal;font-size:140%}
+#header img{display:block;height:auto;float:left;margin-left:10px;margin-top:12px}
+.header img {display:block;height:auto;}
+#header-inner{max-width:970px;margin:auto}
+.titlewrapper{display:inline-block;float:left;padding:15px 0}
+.descriptionwrapper{display:none;float:left;padding:4px 4px}
